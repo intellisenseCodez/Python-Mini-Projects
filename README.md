@@ -46,4 +46,4 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/intell
 
 ## Licence 📜
 
-You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+You may use this tutorial freely at your own risk.
