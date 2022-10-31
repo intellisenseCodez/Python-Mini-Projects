@@ -14,7 +14,7 @@ my_images = range(0,12)
 # create multiple files on a fly
 for i in my_images:
     file_name = f"{i}.txt"
-    file_path = os.path.join(BASE_DIR, file_name) # absolute path
+    file_path = os.path.join(file_dir, file_name) # absolute path
 
     # if path alredy exist
     if os.path.exists(file_path):
