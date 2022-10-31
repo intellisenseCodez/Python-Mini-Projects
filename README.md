@@ -3,11 +3,6 @@
 
 This repository contains all the mini-projects that I've worked on python.
 
-| **No.** | **Name** | 
-| ------- | -------- | 
-|	01	| **[001_Convert_IPython_to_PDF](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/001_Convert_IPython_to_PDF)** | 
-
-
 
 ## Frequently asked questions ❔
 
